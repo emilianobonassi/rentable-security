@@ -1,6 +1,6 @@
 # Rentable's Security Process
 
-This document describes the Security Process for Rentable, including vulnerability disclosures and its [Bug Bounty program](#bug-bounty-program). We are committed to conduct our Security Process in a professional and civil manner. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
+This document describes the Security Process for Rentable, including vulnerability disclosures and its bounty program. We are committed to conduct our Security Process in a professional and civil manner. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
 
 To submit a finding, please follow the steps outlined in receiving disclosures [section](#receiving-disclosures).
 
