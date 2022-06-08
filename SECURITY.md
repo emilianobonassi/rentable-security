@@ -30,10 +30,10 @@ guidelines.
 
 For all security related issues, Rentable has the following main points of contact:
 
-| Contact                | Email                          |
-| ---------------------- | ------------------------------ |
-| Rentable Security Team | security at rentable dot world |
-| Emiliano Bonassi       | emiliano at rentable dot world |
+| Contact                | Public key                                                                                                   | Email                             | Keybase                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
+| Emiliano Bonassi             | [PGP](https://github.com/rentable-world/rentable-security/tree/main/keys/emiliano.asc)                        | emiliano at rentable dot world | [@Emiliano Bonassi](https://keybase.io/emilianobonassi/chat) |
+| Rentable Security Team | | security at rentable dot world | |
 
 ## Sending Disclosures
 
