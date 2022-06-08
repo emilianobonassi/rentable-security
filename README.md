@@ -1,4 +1,4 @@
-# Rentable-security
+# Rentable Security
 
 ## Security policy
 
