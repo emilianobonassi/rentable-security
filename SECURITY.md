@@ -85,4 +85,4 @@ In the case of a counterfeiting or fund-stealing bug affecting Rentable, however
 
 ## Credits
 
-Parts of this document were inspired by [Grin's security policy](https://github.com/mimblewimble/grin/blob/master/SECURITY.md).
+This document were inspired by [Yearn's security policy](https://github.com/yearn/yearn-security/blob/master/SECURITY.md).
