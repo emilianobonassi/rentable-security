@@ -2,7 +2,7 @@
 
 ## Security policy
 
-Rentable's security policy is available at https://github.com/rentable-world/rentable-security/blob/master/SECURITY.md
+Rentable's security policy is available at https://github.com/emiliano-bonassi/rentable-security/blob/master/SECURITY.md
 
 ## About
 
